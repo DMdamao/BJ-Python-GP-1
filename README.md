@@ -19,17 +19,21 @@
 
 
 
-1. **[分支描述]**：四个分支对应四个方向，之所以创建各个分支，为了主要为了练手git。
+#**[分支描述]**
 
-* [x]     主分支(master)分别包括下面四个分支
-* [x]     python-基础(py-basis)
-* [x]     python-web(py-web)
-* [x]     python-爬虫(py-crawler)
-* [x]     python-数据分析(py-data) 
+四个分支对应四个方向，之所以创建各个分支，为了主要为了练手git。也为了方便各位下载体验
 
 
+* [x]     **主分支(master)分别包括下面四个分支**
+* [x]     **python-基础(py-basis)**
+* [x]     **python-web(py-web)**
+* [x]     **python-爬虫(py-crawler)**
+* [x]     **python-数据分析(py-data)**
 
-2. **[项目结构]**：每个目录对应每个方向
+
+
+#**[项目结构]**
+每个目录对应每个方向
 
 
 ```
@@ -42,8 +46,8 @@
 └── py-web
 ```
 
-3. **[开发环境]**：
-    * [x] python3
-    * [x] pycharm
+#**[开发环境]**
+* [x] python3
+* [x] pycharm
 
 
