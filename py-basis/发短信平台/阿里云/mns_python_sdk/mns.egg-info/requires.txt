@@ -1,0 +1,2 @@
+pycrypto
+aliyun-python-sdk-core-v3>=2.3.5

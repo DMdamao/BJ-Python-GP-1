@@ -1,0 +1,4 @@
+aliyunsdkdybaseapi
+aliyunsdkdysmsapi
+build
+mns_python_sdk
