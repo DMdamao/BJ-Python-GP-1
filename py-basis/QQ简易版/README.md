@@ -101,12 +101,12 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '密码';
 ```
 
 # 界面预览图
-![1](../MyQQ/简易版QQ/image/1.png)
-![2](../MyQQ/简易版QQ/image/2.png)
-![3](../MyQQ/简易版QQ/image/3.png)
-![4](../MyQQ/简易版QQ/image/4.png)
-![5](../MyQQ/简易版QQ/image/5.png)
-![5](../MyQQ/简易版QQ/image/6.png)
+![1](image/1.png)
+![2](image/2.png)
+![3](image/3.png)
+![4](image/4.png)
+![5](image/5.png)
+![5](image/6.png)
 
 
 # 用MySQL存储用户信息、消息记录等各种数据
