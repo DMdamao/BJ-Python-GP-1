@@ -11,8 +11,10 @@
 
 import pymysql
 from setting import Stetting
+from singleton import Singleton  # 单例
 
 
+@Singleton
 class MysqlClient(object):
     def __init__(self, host=Stetting.MYSQL_HOST.value,
                  port=Stetting.MYSQL_PORT.value,
